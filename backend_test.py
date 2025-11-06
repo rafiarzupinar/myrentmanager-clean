@@ -10,8 +10,7 @@ import sys
 from datetime import datetime, timedelta
 
 # Base URL from environment
-BASE_URL = "https://myrentmanager.vercel.app/api"
-
+BASE_URL = "https://landlordpro-6.preview.emergentagent.com"
 
 class MyRentManagerTester:
     def __init__(self):
