@@ -479,7 +479,7 @@ export default function App() {
               </div>
               <Button onClick={() => { setEditingProperty(null); setPropertyForm({ name: '', address: '', type: 'Apartment', monthlyRent: '', status: 'Vacant' }); setPropertyDialog(true); }} className="bg-blue-600 hover:bg-blue-700">
                 <Plus className="h-4 w-4 mr-2" />
-                Yeni Gayrimenkul Ekle
+                Gayrimenkul Ekle
               </Button>
             </div>
 
